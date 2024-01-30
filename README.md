@@ -27,4 +27,3 @@ Loadlibrary-DLL-injector.exe 1234 C:\Path\To\Your\InjectedDLL.dll
 ## Note
 
 This project was developed as part of an internship project and will not be updated further.
-shoutout gpt for readme
