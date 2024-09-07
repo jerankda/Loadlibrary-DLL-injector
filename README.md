@@ -10,7 +10,7 @@ Use this tool responsibly and ethically. Unauthorized use of DLL injection techn
 
 - **DLL Injection:** Inject dynamic link libraries into running processes.
 - **Process Selection:** Choose the target process by providing its process ID (PID).
-- **User Interface:** Command-line interface for easy integration into scripts or manual usage.
+- **User Interface:** CLI for easy integration into scripts or manual usage.
 
 ## Usage:
 
