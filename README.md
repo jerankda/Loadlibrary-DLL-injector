@@ -1,7 +1,7 @@
 # Loadlibrary DLL Injector
 
 **Description:**
-Thi is a simple command-line tool designed for injecting dynamic link libraries (DLLs) into running processes on Windows systems. This can be useful for various purposes, including debugging, code injection, and modifying the behavior of applications.
+This is a simple command-line tool designed for injecting dynamic link libraries (DLLs) into running processes on Windows systems. This can be useful for various purposes, including debugging, code injection, and modifying the behavior of applications.
 
 **Disclaimer:**
 Use this tool responsibly and ethically. Unauthorized use of DLL injection techniques may violate the terms of service of certain software or potentially lead to legal consequences. The author is not responsible for any misuse of this tool.
